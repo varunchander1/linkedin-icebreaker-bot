@@ -119,16 +119,13 @@ All settings live in `config.py`:
 
 Note: GPT-5 models only accept the default temperature, so `llm_interface.py` automatically uses `temperature=1.0` for them.
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE).
 
 ## Acknowledgments
 
 - OpenAI for the LLM and embedding models
 - LlamaIndex for the data indexing and retrieval framework
 - ProxyCurl for LinkedIn profile data extraction
-- Based on the IBM / Coursera Icebreaker Bot guided project
+
 
 ---
 
